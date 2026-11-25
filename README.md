@@ -6,3 +6,4 @@ Theme of commit doesn't matter
 I can just write sth in README.md
 ## Upd 11.24
 CPU doesnt work
+## Upd 11.25
