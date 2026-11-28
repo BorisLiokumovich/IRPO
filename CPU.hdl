@@ -55,7 +55,7 @@ CHIP CPU {
     And(a=ng , b=instruction[2] , out=jn );
     Or(a=jp , b=jz , out=jpz );
     Or(a=jpz , b=jn , out=jump );
-
+.. nen xtuj-nj yt [dfnftn
     PC(in=valA , load=jump , inc=true , reset=reset , out[0..14]=pc );
 
     //// Replace this comment with your code.
